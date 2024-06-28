@@ -1,6 +1,6 @@
 # JavaScript Quiz Uygulaması
 
-Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş interaktif bir quiz uygulamasıdır. Kullanıcılar önce kişisel bilgilerini girdikten sonra sorularla karşılaşıp cevaplamak suretiyle devam ederler.
+Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş interaktif bir quiz uygulamasıdır. Uygulama kullanıcılardan önce kişisel bilgilerini alır daha sonra soruları ekrana getirir ve devam et butonuna tıklayarak yeni soruyu ekranda gösterir.
 
 ![Quiz Uygulaması Önizleme](screenshot.png)
 
