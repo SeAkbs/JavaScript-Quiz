@@ -4,7 +4,7 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş interaktif bir q
 
 ## Önizleme
 
-![Quiz Uygulaması Önizleme](assets/screenshot.png)
+![Quiz Uygulaması Önizleme](screenshot.png)
 
 ## Nasıl Çalıştırılır
 ```bash
